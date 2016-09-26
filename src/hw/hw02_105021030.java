@@ -14,7 +14,7 @@ public class hw02_105021030 {
 		System.out.print("請輸入身高:");
 		int b=sc.nextInt();
 		
-		int weight=0;
+		float weight=0;
 		if(a==1){
 			weight=(b-80)*7/10;
 				System.out.print("男生標準體重:"+weight);
