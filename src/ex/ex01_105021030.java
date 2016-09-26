@@ -18,10 +18,10 @@ public class ex01_105021030 {
 		}
 		else{
 			if(minute>600&&minute<=1200){
-				System.out.print("電話費:"+minute*0.9);	
+				System.out.print("電話費:"+minute*0.5*0.9);	
 			}
 			else{
-				System.out.print("電話費:"+minute*0.79);
+				System.out.print("電話費:"+minute*0.5*0.79);
 			}
 		}
 	
