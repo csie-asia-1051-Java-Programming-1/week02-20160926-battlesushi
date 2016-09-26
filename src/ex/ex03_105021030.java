@@ -15,7 +15,7 @@ public class ex03_105021030 {
 		int sum=0;
 		sum1=4*30;
 		sum2=4*40;
-		sum3=2*60;
+		sum3=1*60;
 		sum=sum1+sum2+sum3;
 		System.out.print("早上10點23分停到下午3點20分的停車費:"+sum);
 
